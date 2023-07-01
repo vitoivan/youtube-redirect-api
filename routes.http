@@ -1,0 +1,6 @@
+
+
+###
+GET http://localhost:3000/redirect
+Content-Type: application/json
+Range: bytes=0-
